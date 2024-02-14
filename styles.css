@@ -1,20 +1,5 @@
-
-/* Your CSS Code here. */
-table {
-  border: 1px solid #ddd;
-	width:100%
-
-
+ 
+table{
+height:100%;
+width:100%;	
 }
- body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            flex-direction: column;
-            height: 100vh;
-            margin: 0;
-        }
- td {
-            padding: 10px;
-            text-align: center;
-        }
